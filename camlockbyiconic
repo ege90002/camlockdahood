@@ -9,7 +9,7 @@ local Configuration = {
 -- Keybinds
 local Keybinds = {
     Controller = Enum.KeyCode.ButtonY,
-    Keyboard = Enum.KeyCode.Q,
+    Keyboard = Enum.KeyCode.E,
 }
 
 -- Services
